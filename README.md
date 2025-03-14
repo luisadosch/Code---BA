@@ -50,8 +50,5 @@ _Average performance improvement in MQL of best performing models (daily data)_
 ![Hourly Forecasting Results](Hour/hour_results_without_weather.png)  
 _Average performance improvement in MQL of best performing models (hourly data)_
 
-![Study Locations](locations.jpg)  
-_Analyzed pedestrian flow across key locations in Würzburg_
-
 
 By leveraging these models, retailers can **optimize resource allocation**, **enhance decision-making**, and **improve forecasting accuracy** for better operational efficiency.
