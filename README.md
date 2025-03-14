@@ -44,16 +44,14 @@ Developed probabilistic time series forecasting models to predict pedestrian flo
 - **Hourly Data:** MAE (~163.07) represents an error rate of **~20.44%** of the hourly average (~798 people).  
 
 ## 📷 Visual Results
-![Daily Forecasting Results](day_results_without_weather.png)  
+![Daily Forecasting Results](Day/day_results_without_weather.png)  
 _Average performance improvement in MQL of best performing models (daily data)_
 
-![Hourly Forecasting Results](hour_results_without_weather.png)  
+![Hourly Forecasting Results](Hour/hour_results_without_weather.png)  
 _Average performance improvement in MQL of best performing models (hourly data)_
 
 ![Study Locations](locations.jpg)  
 _Analyzed pedestrian flow across key locations in Würzburg_
 
-## 📂 Project Repository
-🔗 **[GitHub Repository](https://github.com/luisadosch/Code---BA)**  
 
 By leveraging these models, retailers can **optimize resource allocation**, **enhance decision-making**, and **improve forecasting accuracy** for better operational efficiency.
